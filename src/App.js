@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      <div style={{maxWidth: 720, marginLeft: 'auto', marginRight: 'auto', display: 'flex', flexDirection: 'row', justifyContent: 'center', flex: 1, flexWrap: 'wrap'}}>
+      <div style={{maxWidth: 1100, marginLeft: 'auto', marginRight: 'auto', display: 'flex', flexDirection: 'row', justifyContent: 'center', flex: 1, flexWrap: 'wrap'}}>
         <Info />
         <Contacts />
         <Education />
