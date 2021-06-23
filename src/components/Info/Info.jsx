@@ -5,7 +5,6 @@ import './Info.css';
 export default function Info(){
     return(
         <div className={'info-container'}>
-            <div>
                 <h2>СКИЛЛЫ</h2>
                 <div className='skill-row'><div id='react' className='current-skill'>REACT (70%)</div></div>
                 <div className='skill-row'><div id='react-native' className='current-skill'>REACT-NATIVE (90%)</div></div>
@@ -17,7 +16,6 @@ export default function Info(){
                     <span style={{color: 'red'}}> MySQL</span>, и немножко
                     <span style={{color: 'darkorange'}}> Python'ом</span>
                 </span>
-            </div>
         </div>
     )
 }
