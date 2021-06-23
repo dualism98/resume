@@ -40,8 +40,22 @@
 }
 
 .about .univer a {
+}
+
+
+.info-div ul li a {
     color: #006AB3;
     text-decoration: none;
+}
+
+.info-div ul {
+    list-style-type: none;
+    text-align: left;
+}
+
+.info-div ul li {
+    margin: 7px 0px 7px 0px;
+    list-style: none;
 }
 
 .about .gradient {

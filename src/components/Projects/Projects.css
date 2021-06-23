@@ -1,0 +1,15 @@
+.projects-container {
+    max-width: 720px;
+    padding: 20px;
+    align-self: center;
+    text-align: left;
+}
+
+.projects-container a {
+    text-decoration: none;
+    color: gray;
+}
+
+p {
+    margin-top: 5px;
+}

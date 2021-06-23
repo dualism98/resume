@@ -9,10 +9,13 @@ export default function Header(){
             <div className='info-div'>
                 <h1 classNamne='name'>Храмушин Никита</h1>
                 <span className='job'>Junior Frontend Developer (400 руб/ч)</span>
-                <span className='about'>
-                    О себе{'\n'}: Студент-программист 
-                    <span className='univer'><a href='https://sibsau.ru/' target='_blank'> Университета Решетнёва</a></span>
-                    . Готов вписаться в любые классные проектики 🤩 {'\n'}Обожаю <span className='gradient'>градиенты</span></span>
+                <span className='about'>О себе:</span>
+                    <ul>
+                        <li>👨🏻‍💻 Студент-программист<a href='https://sibsau.ru/' target='_blank'> Университета Решетнёва</a></li>
+                        <li>😍 Любитель интересных проектов</li>
+                        <li>🤘🏻 Роцкер</li>
+                        <li></li>
+                    </ul>
             </div>
         </header>
     )
