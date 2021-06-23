@@ -8,6 +8,10 @@
     text-align: left;
 }
 
+.info-container h2 {
+    align-self: center;
+}
+
 .skill-row {
     background-color: white;
     width: 250px;

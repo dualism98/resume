@@ -7,6 +7,10 @@
     text-align: left;
 }
 
+.education-container h2 {
+    align-self: center;
+}
+
 .education-container span {
     text-decoration: none;
 }

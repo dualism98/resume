@@ -5,7 +5,7 @@ import './Contacts.css';
 export default function Contacts() { 
     return(
         <div className='education-container'>
-            <h2>КОНТАКТЫ</h2>
+            <h2 className='title'>КОНТАКТЫ</h2>
             <span><a href='tel:+79130546593'>📞 +7(913)054-65-93</a></span>
             <span><a href='mailto:beachsidebearhi@gmail.com'>💌 beachsidebearhi@gmail.com</a></span>
             <br />
