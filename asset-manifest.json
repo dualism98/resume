@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dualism-resume/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/dualism-resume/static/js/main.4f050c0d.chunk.js",
+    "main.js.map": "/dualism-resume/static/js/main.4f050c0d.chunk.js.map",
+    "runtime-main.js": "/dualism-resume/static/js/runtime-main.823f4b30.js",
+    "runtime-main.js.map": "/dualism-resume/static/js/runtime-main.823f4b30.js.map",
+    "static/js/2.05601647.chunk.js": "/dualism-resume/static/js/2.05601647.chunk.js",
+    "static/js/2.05601647.chunk.js.map": "/dualism-resume/static/js/2.05601647.chunk.js.map",
+    "static/js/3.681d018a.chunk.js": "/dualism-resume/static/js/3.681d018a.chunk.js",
+    "static/js/3.681d018a.chunk.js.map": "/dualism-resume/static/js/3.681d018a.chunk.js.map",
+    "index.html": "/dualism-resume/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/dualism-resume/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.05601647.chunk.js.LICENSE.txt": "/dualism-resume/static/js/2.05601647.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dualism-resume/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.823f4b30.js",
+    "static/js/2.05601647.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.4f050c0d.chunk.js"
+  ]
+}
